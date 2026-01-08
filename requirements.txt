@@ -1,0 +1,16 @@
+# Core Dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# GUI & Automation
+pyautogui>=0.9.54
+mss>=9.0.1
+
+# Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Optional: For local PII detection models
+# ultralytics>=8.0.0  # If using YOLO
+# paddleocr>=2.7.0    # If using PaddleOCR
